@@ -1,5 +1,5 @@
 @media (max-width: 600px) {
-.main_content {
+#main_content {
 	color: orange;
 	}
 }
